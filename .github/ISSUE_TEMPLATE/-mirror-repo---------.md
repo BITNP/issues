@@ -2,7 +2,7 @@
 name: "[mirror/repo] 镜像站内容请求"
 about: mirror.bit.edu.cn 请求镜像新内容
 title: "[mirror/repo]"
-labels: enhancement
+labels: enhancement, mirror.bitnp.net
 assignees: ''
 
 ---
