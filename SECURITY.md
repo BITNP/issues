@@ -12,7 +12,7 @@ You are welcome to report all vulnerabilities or incidents to us, related to ser
 - live.bitnp.net
 - mirrors.bitnp.net, mirror.bitnp.net, mirror.bit.edu.cn, mirrors.bit.edu.cn
 
-Currently, the only service Net Pioneer Association maintains under `bit.edu.cn` is mirror.bit.edu.cn / mirrors.bit.edu.cn.
+Currently, the only service NetPioneer Association maintains under `bit.edu.cn` is mirror.bit.edu.cn / mirrors.bit.edu.cn.
 
 Please report **other security vulnerabilities in BIT network or domain** to [BIT Network Information and Technology Center](mailto:service@bit.edu.cn). We have direct contacts in related institute departments, which may help if you need immediate response, but you may want to contact only NITC directly if you think the information should only be exposed to the direct responder of BIT network, or Institute staff members.
 
@@ -22,7 +22,7 @@ For responsible reporting, please only send an email with related information to
 
 Unfortunately we do not have a public key for email encryption yet. Please inquire through email if you need one (we can provide personal public key for this purpose on this page, if required).
 
-We strive to give first email response in 24 hours. We uses BJT (UTC+8), but since we are students, you may get a response outside regular "business hours". Net Pioneer Association is a non-profit student organization of Beijing Institute of Technology in China, directed by Youth League Committee of BIT, so we do not provide bounties, but we are happy to give you the credit that you deserve.
+We strive to give first email response in 24 hours. We uses BJT (UTC+8), but since we are students, you may get a response outside regular "business hours". NetPioneer Association is a non-profit student organization of Beijing Institute of Technology in China, directed by Youth League Committee of BIT, so we do not provide bounties, but we are happy to give you the credit that you deserve.
 
 # 安全报告
 
